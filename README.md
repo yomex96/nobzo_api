@@ -25,7 +25,7 @@ It demonstrates backend fundamentals including:
 ## 📁 Project Structure
 
 ```
-blog-api/
+nobzo-api/
 │
 ├── src/
 │   ├── config/          # DB connection & configuration
