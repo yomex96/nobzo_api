@@ -86,7 +86,8 @@ Server will start at:
 http://localhost:3000
 ```
 
-![Server started](server_start.png)
+![Server started](images/server_start.png)
+
 ---
 
 ## 🔐 Authentication Endpoints
