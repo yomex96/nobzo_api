@@ -8,7 +8,7 @@ dotenv.config();
 
 await connectDB();
 
-// const app = express();
+
 
 console.log("Mongo Db connected");
 
