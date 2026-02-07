@@ -48,8 +48,8 @@ blog-api/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <YOUR_REPO_URL>
-cd blog-api
+git clone https://github.com/yomex96/nobzo_api.git
+cd nobzo-api
 ```
 
 ### 2️⃣ Install Dependencies
@@ -60,7 +60,7 @@ npm install
 
 ### 3️⃣ Configure Environment Variables
 
-Create a `.env` file in the root directory:
+Create a `.env` file in the root directory using the .env.example sample:
 
 ```
 MONGODB_URI=mongodb://localhost:27017/blog-api
@@ -86,6 +86,7 @@ Server will start at:
 http://localhost:3000
 ```
 
+![Server started](server_start.png)
 ---
 
 ## 🔐 Authentication Endpoints
@@ -267,4 +268,4 @@ Includes:
 ## 👤 Author
 
 Your Name: Abayomi Robert Onawole
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+GitHub: https://github.com/yomex96/nobzo_api.git
