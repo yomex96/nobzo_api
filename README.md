@@ -35,7 +35,7 @@ nobzo-api/
 │   ├── routes/          # Express routes
 │   ├── utils/           # Helpers (slug generator, etc.)
 │   └── server.js        # App entry point
-│
+├── images│
 ├── .env.example
 ├── package.json
 └── README.md
